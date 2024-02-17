@@ -22,6 +22,9 @@ const LandScapes = () => {
                         <p className=' leading-6 ff-poppins font-normal text-base opacity-50 '>We hope you enjoy our services as much as we enjoy offering them to you. If you have any questions or comments, please don't hesitate to contact us.</p>
                         <p className=' leading-6 ff-poppins font-normal text-base opacity-50 '>We hope you enjoy our services as much as we enjoy offering them to you. If you have any questions or comments, please don't hesitate to contact us.</p>
                         <p className=' leading-6 ff-poppins font-normal text-base opacity-50 '>We hope you enjoy our services as much as we enjoy offering them to you. If you have any questions or comments, please don't hesitate to contact us.</p>
+                        <p className=' leading-6 ff-poppins font-normal text-base opacity-50 '>We hope you enjoy our services as much as we enjoy offering them to you. If you have any questions or comments, please don't hesitate to contact us.</p>
+                        <p className=' leading-6 ff-poppins font-normal text-base opacity-50 '>We hope you enjoy our services as much as we enjoy offering them to you. If you have any questions or comments, please don't hesitate to contact us.</p>
+                        <p className=' leading-6 ff-poppins font-normal text-base opacity-50 '>We hope you enjoy our services as much as we enjoy offering them to you. If you have any questions or comments, please don't hesitate to contact us.</p>
                     </div>
                 </div>
             </div>
