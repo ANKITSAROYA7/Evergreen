@@ -20,6 +20,8 @@ const LandScapes = () => {
                         <p className=' leading-6 ff-poppins font-normal text-base opacity-50 '>Our team is dedicated to giving our clients the very best of landscaping in a safe and professional manner.</p>
                         <p className=' leading-6 ff-poppins font-normal text-base opacity-50 py-2 '>Founded in 2012, Evergreen Landscapes (formerly David's Lawn Care) has come a long way from its beginnings. When we first started out, our passion for providing quality and affordable services to our valuable clients drove us to take action and gave us the momentum to turn hard work and inspiration into a growing landscaping company. We now serve customers all over the Chicago land area and are thrilled to be a part of the landscaping industry.</p>
                         <p className=' leading-6 ff-poppins font-normal text-base opacity-50 '>We hope you enjoy our services as much as we enjoy offering them to you. If you have any questions or comments, please don't hesitate to contact us.</p>
+                        <p className=' leading-6 ff-poppins font-normal text-base opacity-50 '>We hope you enjoy our services as much as we enjoy offering them to you. If you have any questions or comments, please don't hesitate to contact us.</p>
+                        <p className=' leading-6 ff-poppins font-normal text-base opacity-50 '>We hope you enjoy our services as much as we enjoy offering them to you. If you have any questions or comments, please don't hesitate to contact us.</p>
                     </div>
                 </div>
             </div>
